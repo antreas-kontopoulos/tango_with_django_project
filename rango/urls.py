@@ -1,5 +1,4 @@
-# from django.conf.urls import patterns, url
-from django.conf.urls import *
+from django.conf.urls import url
 from rango import views
 
 urlpatterns = [
